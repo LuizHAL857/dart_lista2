@@ -1,6 +1,3 @@
-
-
-
   void main() {
 String valorA = "30";
 String valorB = "15.75";
